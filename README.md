@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sri-krishna-kireeti
-- 👀 I’m interested in Web development and data analysis
+- 👀 I’m interested in Web development and Machine Learning
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Insta-srikrishnakireeti
